@@ -1,2 +1,4 @@
 # Git Practice
-This is a conflicting update on the feature-branch
+
+This is an update on the main branch
+
